@@ -96,4 +96,50 @@ Follow the instructions below to set up the developer environment for Weather Ch
     http://localhost:3000
     ```
 
+## Prompts 
 
+Following are the prompts tested with this app.
+
+```bash
+What's the weather like in San Francisco today?
+```
+
+```bash
+Tell me the weather for Los Angeles tomorrow.
+```
+
+```bash
+How is it in Paris?
+```
+
+```bash
+Is it raining at San Francisco this afternoon?
+```
+
+```bash
+Check the weather in Berlin, Germany.
+```
+
+```bash
+Weather forecast for Dubai tonight!
+```
+
+```bash
+what is the weather in Fremont
+```
+
+```bash
+Is it snowing in Chicago today?
+```
+
+```bash
+Will it rain in London this evening?
+```
+
+```bash
+Is there a storm warning in Miami today?
+```
+
+```bash
+How warm is it in Cape Town today?
+```
