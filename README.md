@@ -8,6 +8,8 @@ The platform is integrated with LangSmith to enable LLM-powered application life
 
 This application can easily auto-scale in production environments to support enterprise-level usage.
 
+![ChatBot](./weather_chatbot.png)
+
 ## Instructions
 
 Follow the instructions below to set up the developer environment for Weather ChatBot application.
